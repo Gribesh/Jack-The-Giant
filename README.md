@@ -13,3 +13,6 @@ The game is designed for a cross platform environment like Android, WebGL, and W
 In our project we have used multiple built-in functions that unity game engine provides to
 make the animation smooth. We have worked on the tiniest of the details to make the giant,
 the props, and the background look more realistic.
+
+As a final product, we have developed a game that is fun, enjoyable, and playable through all
+the age groups, especially kids who have and can operate computer or an android device.
